@@ -1,0 +1,59 @@
+div {
+	display: inline-block;
+}
+
+.heather {
+	text-align: center;
+	line-height: 0; 
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-bottom: 20px;
+}
+
+.raf {
+	line-height: 0;
+	text-align: right;
+}
+
+table {
+	width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+} 
+
+th, td {
+  border: 1px solid black;
+}
+
+th {
+	font-weight: normal;
+}
+
+.alignLeft {
+	text-align: left;
+}
+
+.alignRight {
+	text-align: right;
+}
+
+.alignCenter {
+	text-align: center;
+}
+
+.tblSection {
+	text-align: center;
+	letter-spacing: 4px;
+	font-weight: bold;
+}
+
+.noBorder {
+	border-bottom: hidden;
+}
+
+.noTopBorder {
+	border-top: hidden;
+}
